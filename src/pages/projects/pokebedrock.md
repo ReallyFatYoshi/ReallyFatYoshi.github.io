@@ -16,7 +16,7 @@ filename: pokebedrock
 
 ## My Role
 
-As a **core contributor**, I played a major role in the ongoing development of the server's backend, gameplay systems, and infrastructure. My work included:
+As a **Developer**, I played a major role in the ongoing development of the server's backend, gameplay systems, and infrastructure. My work included:
 
 - 🧩 **Plugin Development** — Created and maintained custom plugins for the **PocketMine-MP** server software, enabling gameplay features and mechanics tailored to our community.
 - 🖥 **Infrastructure Engineering** — Helped design and build scalable, resilient backend infrastructure to support high concurrent player counts and cross-server features.
